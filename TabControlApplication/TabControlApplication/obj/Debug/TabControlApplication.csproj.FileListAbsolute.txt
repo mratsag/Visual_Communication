@@ -1,0 +1,10 @@
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\bin\Debug\TabControlApplication.exe.config
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\bin\Debug\TabControlApplication.exe
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\bin\Debug\TabControlApplication.pdb
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.csproj.AssemblyReference.cache
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.Form1.resources
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.Properties.Resources.resources
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.csproj.GenerateResource.cache
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.csproj.CoreCompileInputs.cache
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.exe
+C:\Users\msag1\Desktop\visual\TabControlApplication\TabControlApplication\obj\Debug\TabControlApplication.pdb
